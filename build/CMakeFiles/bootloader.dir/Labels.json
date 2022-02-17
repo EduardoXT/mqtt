@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}

@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/programacao/desafio/_17__MQTT/build/CMakeFiles/bootloader
+C:/programacao/desafio/_17__MQTT/build/CMakeFiles/bootloader.rule
+C:/programacao/desafio/_17__MQTT/build/CMakeFiles/bootloader-complete.rule
+C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/programacao/desafio/_17__MQTT/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
