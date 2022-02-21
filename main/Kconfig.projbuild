@@ -2,10 +2,10 @@ menu "WIFI CONNECT"
 
 config WIFI_SSID
     string "SSID"
-    default "GVT Power Ranger"
+    default "InsoleON"
 
 config WIFI_PASSWORD
     string "PASSWORD"
-    default "8419274500"  
+    default "12345678"  
 
 endmenu
